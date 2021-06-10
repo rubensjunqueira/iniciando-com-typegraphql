@@ -8,7 +8,7 @@ git clone git@github.com:rubensjunqueira/iniciando-com-typegraphql.git
 
 ### Install dependencies
 ```
-cd type-graphql
+cd iniciando-com-typegraphql
 ```
 ```
 yarn
@@ -21,7 +21,7 @@ npm install
 
 ### RUN
 ```
-yarn config
+yarn configuration
 ```
 ```
 yarn dev

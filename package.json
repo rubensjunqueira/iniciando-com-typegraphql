@@ -4,7 +4,7 @@
   "main": "index.js",
   "license": "MIT",
   "scripts": {
-    "config": "rm ./src/database/database.sqlite && touch ./src/database/database.sqlite",
+    "configuration": "rm ./src/database/database.sqlite && touch ./src/database/database.sqlite",
     "dev": "ts-node-dev src/server.ts",
     "typeorm": "ts-node-dev ./node_modules/typeorm/cli"
   },
